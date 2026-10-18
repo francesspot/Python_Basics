@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="structureTranslation">
+      <map>
+        <entry key="Polish">
+          <value>
+            <map>
+              <entry key="1044169934" value="Krok 3  " />
+              <entry key="1112857690" value="Typy danych  " />
+              <entry key="1178211071" value="Dzień 6  " />
+              <entry key="1179865809" value="Nazewnictwo zmiennych  " />
+              <entry key="1199998776" value="Krok 5  " />
+              <entry key="1206289300" value="Krok 2  " />
+              <entry key="1235620065" value="Dzień 3  " />
+              <entry key="1277708657" value="Zasięg blokowy  " />
+              <entry key="1298813328" value="Napraw błędy  " />
+              <entry key="1304427684" value="Gdzie są reszta dni  " />
+              <entry key="1307993871" value="Użyj Debuggera  " />
+              <entry key="1322657598" value="Dzień 11  " />
+              <entry key="1336938375" value="Wiele wartości zwrotu  " />
+              <entry key="1407599981" value="Dzień 12  " />
+              <entry key="1500767241" value="Dzień 7  " />
+              <entry key="1517941988" value="Pętle For z Zakresem  " />
+              <entry key="1521411200" value="Projekt Generator Nazwy Zespołu  " />
+              <entry key="1566856357" value="Użyj Print  " />
+              <entry key="1592611158" value="Modulo  " />
+              <entry key="1606163007" value="Projekt Kalkulator Napiwków  " />
+              <entry key="1639961942" value="Zagnieżdżanie i Elif  " />
+              <entry key="1719245063" value="Projekt Wyższa czy Niższa  " />
+              <entry key="1720631818" value="Opisz problem  " />
+              <entry key="1730117572" value="Manipulacja łańcuchami znaków  " />
+              <entry key="1744300585" value="Projekt Ekspres do kawy  " />
+              <entry key="17794001" value="Ruletka Bankiera  " />
+              <entry key="17794002" value="IndexError  " />
+              <entry key="17794003" value="Listy  " />
+              <entry key="17794004" value="Moduł Random  " />
+              <entry key="17794005" value="Papier kamień nożyce  " />
+              <entry key="17794006" value="Funkcje  " />
+              <entry key="17794007" value="Pętle For  " />
+              <entry key="1783099172" value="Dzień 1  " />
+              <entry key="1791388063" value="Operacje matematyczne  " />
+              <entry key="1820122666" value="Projekt Generator Haseł  " />
+              <entry key="1825435284" value="Funkcje z wejściami  " />
+              <entry key="1835831684" value="Dzień 9  " />
+              <entry key="1893623829" value="Dzień 16-100  " />
+              <entry key="1902731480" value="Przestrzenie nazw i zasięg  " />
+              <entry key="1923669322" value="Zagraj w komputer  " />
+              <entry key="195716625" value="Argumenty pozycyjne vs słowne  " />
+              <entry key="1977144334" value="Projekt aukcja w ciemno  " />
+              <entry key="199568011" value="Projekt Wyspa Skarbów  " />
+              <entry key="2019991323" value="Caesar Cipher 1  " />
+              <entry key="2038477174" value="Dzień 14  " />
+              <entry key="2083621760" value="Dzień 10  " />
+              <entry key="2088487643" value="Docstringi  " />
+              <entry key="2107013760" value="Zmienne globalne  " />
+              <entry key="216408927" value="Projekt kalkulator  " />
+              <entry key="283125148" value="Wejścia  " />
+              <entry key="284492507" value="Jeśli Else  " />
+              <entry key="342841397" value="Operatory logiczne  " />
+              <entry key="367561985" value="Najwyższy wynik  " />
+              <entry key="373790071" value="Dzień 5  " />
+              <entry key="392892348" value="Krok 1  " />
+              <entry key="417849496" value="Wiele If  " />
+              <entry key="424097809" value="Dzień 15  " />
+              <entry key="476425553" value="Projekt blackjack  " />
+              <entry key="481990002" value="Stałe globalne  " />
+              <entry key="526466484" value="Błąd typów, sprawdzanie i konwersja  " />
+              <entry key="540859013" value="Python Pizza  " />
+              <entry key="566117749" value="Słowniki  " />
+              <entry key="625529494" value="Drukowanie  " />
+              <entry key="627596553" value="Krok 4  " />
+              <entry key="636283032" value="Zmienne  " />
+              <entry key="644805369" value="Dzień 2  " />
+              <entry key="653216157" value="Projekt zgadywanie liczb  " />
+              <entry key="671285232" value="Dzień 13  " />
+              <entry key="740423759" value="Dzień 4  " />
+              <entry key="785894060" value="Odtwórz błąd  " />
+              <entry key="796392606" value="Funkcje ze zwracaniem wartości  " />
+              <entry key="881809023" value="Dzień 8  " />
+              <entry key="900654030" value="Szyfr Cezara 3  " />
+              <entry key="915669702" value="Caesar Cipher 2  " />
+              <entry key="925561270" value="Zagnieżdżone listy i słowniki  " />
+              <entry key="997111556" value="Manipulacja liczbami  " />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Polish" value="848" />
+      </map>
+    </option>
+  </component>
+</project>
