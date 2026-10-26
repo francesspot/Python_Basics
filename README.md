@@ -1,46 +1,39 @@
-**Polski** | [English](README.en.md)
+🇵🇱 **Polski** | 🇬🇧 [English](README.en.md)
 
-# Podstawy Pythona — 100 Days of Code (dni 1–15)
+# 🐍 Python od podstaw — 100 Days of Code (dni 1–15)
 
-Moje rozwiązania pierwszych 15 dni kursu **100 Days of Code: The Complete Python Pro Bootcamp**, realizowanego jako kurs JetBrains Academy w PyCharmie. Każdy dzień to krótkie ćwiczenia i mały projekt. Dni od 16. w górę są w repozytorium [Python_Bootcamp](https://github.com/francesspot/Python_Bootcamp).
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-## Zawartość
+> 🎓 Kurs **100 Days of Code: The Complete Python Pro Bootcamp** (Angela Yu, Udemy)
 
-| Dzień | Temat | Projekt |
-|-------|-------|---------|
-| 1 | Wypisywanie, wejście, zmienne, napisy | Band Name Generator |
-| 2 | Typy danych, konwersja typów, matematyka | Tip Calculator |
-| 3 | Instrukcje warunkowe, operatory logiczne, modulo | Treasure Island, Python Pizza |
-| 4 | Losowość, listy | Rock Paper Scissors, Banker Roulette |
-| 5 | Pętle `for`, `range` | Password Generator |
-| 6 | Funkcje | — |
-| 7 | Łączenie wszystkiego (krok po kroku) | Hangman (wisielec) |
-| 8 | Funkcje z argumentami, argumenty nazwane | Szyfr Cezara |
-| 9 | Słowniki, zagnieżdżanie | Blind Auction |
-| 10 | Funkcje zwracające wartość, docstringi | Kalkulator |
-| 11 | — | Blackjack |
-| 12 | Zasięg zmiennych, zmienne i stałe globalne | Gra w zgadywanie liczby |
-| 13 | Debugowanie | — |
-| 14 | — | Higher or Lower |
-| 15 | Lokalne środowisko programistyczne | Coffee Machine (ekspres do kawy) |
+Moje rozwiązania z pierwszych 15 dni kursu — od `print("Hello")` do pierwszych małych gier. 🎮 Dalsze dni są w repo [Python_Bootcamp](https://github.com/francesspot/Python_Bootcamp).
 
-## Struktura
+## 🕹️ Projekty
 
-Każde ćwiczenie to osobny folder z:
+| Dzień | Projekt |
+|---|---|
+| 1 | 🎸 Band Name Generator |
+| 2 | 💸 Kalkulator napiwków |
+| 3 | 🏝️ Treasure Island (gra tekstowa), 🍕 Python Pizza |
+| 4 | ✊✋✌️ Papier, kamień, nożyce |
+| 5 | 🔑 Generator haseł |
+| 7 | 🪢 Wisielec |
+| 8 | 🔐 Szyfr Cezara |
+| 9 | 🔨 Aukcja w ciemno |
+| 10 | 🧮 Kalkulator |
+| 11 | 🃏 Blackjack |
+| 12 | 🔢 Zgadnij liczbę |
+| 14 | 📈 Higher or Lower |
+| 15 | ☕ Ekspres do kawy |
 
-- `task.py` (lub `main.py` w większych projektach) — mój kod,
-- `solution.py` — wzorcowe rozwiązanie z kursu,
-- `task.md` / `task_pl.md` — treść zadania (po angielsku / po polsku),
-- `task-info.yaml` — metadane JetBrains Academy.
+Po drodze: zmienne, typy, warunki, pętle, listy, słowniki, funkcje, zasięg zmiennych i debugowanie.
 
-Lekcje wieloetapowe (dni 1, 7 i 11) trzymają kod we wspólnym folderze `task/`; foldery kroków zawierają tylko opisy.
+## 🚀 Uruchomienie
 
-## Uruchamianie
-
-Otwórz repozytorium w PyCharmie z wtyczką JetBrains Academy albo uruchom wybrane ćwiczenie bezpośrednio:
+Bez zewnętrznych bibliotek, np.:
 
 ```bash
 python "Day 14/Higher or Lower Project/main.py"
 ```
 
-Nie są potrzebne żadne zewnętrzne biblioteki.
+W każdym folderze `task.py` / `main.py` to mój kod, a `solution.py` — wzorcowe rozwiązanie z kursu.

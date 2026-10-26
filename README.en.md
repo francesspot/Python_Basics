@@ -1,46 +1,39 @@
-[Polski](README.md) | **English**
+🇵🇱 [Polski](README.md) | 🇬🇧 **English**
 
-# Python Basics — 100 Days of Code (Days 1–15)
+# 🐍 Python from Scratch — 100 Days of Code (Days 1–15)
 
-My solutions to the first 15 days of the **100 Days of Code: The Complete Python Pro Bootcamp** course, done as a JetBrains Academy course in PyCharm. Each day has short exercises plus a small project. Days 16 onwards are in the [Python_Bootcamp](https://github.com/francesspot/Python_Bootcamp) repository.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-## Contents
+> 🎓 **100 Days of Code: The Complete Python Pro Bootcamp** course (Angela Yu, Udemy)
 
-| Day | Topic | Project |
-|-----|-------|---------|
-| 1 | Printing, input, variables, strings | Band Name Generator |
-| 2 | Data types, type conversion, maths | Tip Calculator |
-| 3 | Conditionals, logical operators, modulo | Treasure Island, Python Pizza |
-| 4 | Randomisation, lists | Rock Paper Scissors, Banker Roulette |
-| 5 | `for` loops, `range` | Password Generator |
-| 6 | Functions | — |
-| 7 | Putting it together (step by step) | Hangman |
-| 8 | Functions with inputs, keyword arguments | Caesar Cipher |
-| 9 | Dictionaries, nesting | Blind Auction |
-| 10 | Functions with outputs, docstrings | Calculator |
-| 11 | — | Blackjack |
-| 12 | Scope, global variables and constants | Number Guessing Game |
-| 13 | Debugging | — |
-| 14 | — | Higher or Lower |
-| 15 | Local development environment | Coffee Machine |
+My solutions from the first 15 days of the course — from `print("Hello")` to my first small games. 🎮 Later days are in the [Python_Bootcamp](https://github.com/francesspot/Python_Bootcamp) repo.
 
-## Structure
+## 🕹️ Projects
 
-Every exercise is a separate folder with:
+| Day | Project |
+|---|---|
+| 1 | 🎸 Band Name Generator |
+| 2 | 💸 Tip Calculator |
+| 3 | 🏝️ Treasure Island (text adventure), 🍕 Python Pizza |
+| 4 | ✊✋✌️ Rock Paper Scissors |
+| 5 | 🔑 Password Generator |
+| 7 | 🪢 Hangman |
+| 8 | 🔐 Caesar Cipher |
+| 9 | 🔨 Blind Auction |
+| 10 | 🧮 Calculator |
+| 11 | 🃏 Blackjack |
+| 12 | 🔢 Number Guessing Game |
+| 14 | 📈 Higher or Lower |
+| 15 | ☕ Coffee Machine |
 
-- `task.py` (or `main.py` in larger projects) — my code,
-- `solution.py` — the course's reference solution,
-- `task.md` / `task_pl.md` — the task description (English / Polish),
-- `task-info.yaml` — JetBrains Academy metadata.
+Along the way: variables, types, conditionals, loops, lists, dictionaries, functions, scope and debugging.
 
-Multi-step lessons (Days 1, 7 and 11) keep their code in a shared `task/` folder; the step folders contain only the descriptions.
+## 🚀 Run it
 
-## Running
-
-Open the repository in PyCharm with the JetBrains Academy plugin, or run any exercise directly:
+No external libraries, e.g.:
 
 ```bash
 python "Day 14/Higher or Lower Project/main.py"
 ```
 
-No external libraries are needed.
+In each folder `task.py` / `main.py` is my code and `solution.py` is the course's reference solution.
