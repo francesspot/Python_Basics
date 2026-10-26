@@ -6,25 +6,25 @@
 
 > 🎓 Kurs **100 Days of Code: The Complete Python Pro Bootcamp** (Angela Yu, Udemy)
 
-Moje rozwiązania z pierwszych 15 dni kursu — od `print("Hello")` do pierwszych małych gier. 🎮 Dalsze dni są w repo [Python_Bootcamp](https://github.com/francesspot/Python_Bootcamp).
+Moje rozwiązania z pierwszych 15 dni kursu: od podstaw składni po pierwsze proste gry. Dalsze dni są w repozytorium [Python_Bootcamp](https://github.com/francesspot/Python_Bootcamp).
 
 ## 🕹️ Projekty
 
 | Dzień | Projekt |
 |---|---|
-| 1 | 🎸 Band Name Generator |
-| 2 | 💸 Kalkulator napiwków |
-| 3 | 🏝️ Treasure Island (gra tekstowa), 🍕 Python Pizza |
-| 4 | ✊✋✌️ Papier, kamień, nożyce |
-| 5 | 🔑 Generator haseł |
-| 7 | 🪢 Wisielec |
-| 8 | 🔐 Szyfr Cezara |
-| 9 | 🔨 Aukcja w ciemno |
-| 10 | 🧮 Kalkulator |
-| 11 | 🃏 Blackjack |
-| 12 | 🔢 Zgadnij liczbę |
-| 14 | 📈 Higher or Lower |
-| 15 | ☕ Ekspres do kawy |
+| 1 | Band Name Generator |
+| 2 | Kalkulator napiwków |
+| 3 | Treasure Island (gra tekstowa), Python Pizza |
+| 4 | Papier, kamień, nożyce |
+| 5 | Generator haseł |
+| 7 | Wisielec |
+| 8 | Szyfr Cezara |
+| 9 | Aukcja w ciemno |
+| 10 | Kalkulator |
+| 11 | Blackjack |
+| 12 | Zgadnij liczbę |
+| 14 | Higher or Lower |
+| 15 | Ekspres do kawy |
 
 Po drodze: zmienne, typy, warunki, pętle, listy, słowniki, funkcje, zasięg zmiennych i debugowanie.
 
